@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+}
+.intended:hover{
+    color: crimson;
+}
+.rotate{
+    transform: rotate(5000deg);
+    transition: all 5s;
+}
